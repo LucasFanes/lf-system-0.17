@@ -161,6 +161,15 @@ Computer Science and Computer Engineering Student at FMU.
 
 Currently seeking internship and junior software development opportunities to apply and expand skills in programming, automation, and software engineering.
 
-## License
+## ## License
 
-This project is intended for educational and portfolio purposes.
+This project is provided for educational and portfolio purposes only.
+
+You are allowed to view, study, and learn from the source code.
+
+Commercial use, redistribution, resale, sublicensing, or incorporation of this software into commercial products or services is strictly prohibited without prior written permission from the author.
+
+© Lucas Dalla Rosa Fanes. All rights reserved.
+
+
+
