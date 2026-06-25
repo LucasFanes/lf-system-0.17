@@ -110,4 +110,14 @@ Lucas Fanes
 Estudante de Ciência da Computação e Engenharia da Computação na FMU.
 
 Atualmente em busca de oportunidades de estágio e desenvolvimento de software para aplicar e expandir conhecimentos em programação, automação e tecnologia.
+
+## Licença
+
+Este projeto é disponibilizado exclusivamente para fins educacionais, acadêmicos e de portfólio.
+
+É permitida a visualização, análise e estudo do código-fonte para aprendizado pessoal.
+
+Não é permitida a utilização comercial deste software, nem sua redistribuição, revenda, sublicenciamento ou incorporação em produtos ou serviços comerciais sem autorização prévia e por escrito do autor.
+
+© Lucas Dalla Rosa Fanes. Todos os direitos reservados.
 READ.md
